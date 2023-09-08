@@ -1,4 +1,4 @@
-export class Colacion{
+/*export class Colacion{
     private nombre : string;
     private descripcion : string;
 
@@ -6,4 +6,4 @@ export class Colacion{
         this.nombre = nombre;
         this.descripcion = descripcion;
     }
-}
+}*/

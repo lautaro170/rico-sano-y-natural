@@ -1,4 +1,4 @@
-export class Bebida{
+/*export class Bebida{
     private nombre : string;
     private descripcion : string;
 
@@ -6,4 +6,4 @@ export class Bebida{
         this.nombre = nombre;
         this.descripcion = descripcion;
     }
-}
+}*/
